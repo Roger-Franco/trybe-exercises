@@ -1,0 +1,32 @@
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+   
+}
+ul {
+    background-color: cyan;
+}    
+.corFav {
+    background-color: gray;
+}
+p {
+    font-weight: 600;
+    font-size: 3em;
+    font-style: italic;
+    text-decoration: underline;
+}
+body {
+    font-size: 16px;
+    line-height: 2;
+    text-align: center;
+}
+#ama {
+    background-color: yellow;
+}
+#ver {
+    background-color: red;
+}
+#mar {
+    background-color: brown;
+}
