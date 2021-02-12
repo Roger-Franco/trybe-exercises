@@ -1,0 +1,5 @@
+div:hover{
+    border: 1px solid black;
+}
+
+/* nao estou sabendo como selecionar cada item da div sem que se tenha que colocar uma class ou Id */
