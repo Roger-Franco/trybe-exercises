@@ -2,4 +2,32 @@ div:hover{
     border: 1px solid black;
 }
 
-/* nao estou sabendo como selecionar cada item da div sem que se tenha que colocar uma class ou Id */
+
+
+
+/* div:nth-child(odd){
+    color: orange;
+} */
+
+div:nth-child(3){
+    color: orange;
+}
+div:nth-child(4){
+    color: blue;
+    font-style: oblique;
+}
+div:nth-child(5){
+    color: lightblue;
+}
+div:nth-child(6){
+    color: brown;
+}
+div:nth-child(7){
+    color: cyan;
+}
+div:nth-child(5){
+    font-size: 20px;
+}
+div:nth-child(odd){
+    font-style: italic;
+}
