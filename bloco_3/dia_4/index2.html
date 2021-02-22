@@ -5,18 +5,45 @@
     <meta name="viewport" content="width=device-width" />
     <style>
 
+        body {
+            align-items: center;
+            align-content: center;
+            margin-left: 10px;
+            background-color: #ccc;
+        }
+
+        #nav {
+            font-size: 20px;
+            color: white;
+            background-color: cyan;
+            padding: 5px;
+        }
+
         #group {
             display: inline;
         }  
 
+        img {
+            width: 60%;
+        }
+
         .list li {
             display: inline;
+            margin-left: 20px;
         }
         #aside {
             position: fixed;
             top: 0;
             right: 0;
             margin-top: 150px;
+            width: 25%;
+        }
+
+        #aside1 {
+            position: fixed;
+            top: 0;
+            right: 0;
+            margin-top: 400px;
             width: 25%;
         }
         p {
@@ -32,24 +59,30 @@
   </head>
   <body>
     <!--insira os elementos aqui-->
-    <header>Soco a 80km/h: Conheça o Stomatopoda</header>
-    <nav>
+    <header> <h1> Soco a 80km/h: Conheça o Stomatopoda</h1></header>
+    <nav id="nav">
         <ul class="list">
             <li>Página Inicial</li>
             <li>Sobre</li>
             <li>Contato</li>
         </ul>
+    </nav>
         <main id="group">
             <article>
                 <h2>Fatos sobre o Stomatopoda</h2>
                 <section>
                     <h3>Um animal peculiar</h3>
+                        <img src="Stomatopoda.jpg" alt="Foto de Stomatopoda">
                         <p>São animais que apresentam comportamentos sociais muito variados, desde ameaças visuais contra predadores até comportamentos de côrte. De acordo com a anatomia da sua pata raptorial é possível distinguir entre dois grupos funcionais, as perfuradoras (spearers) ou as esmagadoras (smashers), sendo que cada um dos tipos apresenta sua própria variação comportamental e até mesmo de habitat.</p>
                 </section>
                 <section>
                     <h3>Um animal de punho firme</h3>
-
+                    <img src="punch1.jpg" alt="Punhos com luvas de boxe">
                         <p>As maiores esmagadoras, tais como exemplares de <i>Odontodactylus scyllarus</i>, são capazes de desferir um dos mais rápidos e violentos golpes do reino animal, um soco que pode apresentar a velocidade de um tiro calibre .22 (equivalente a <strong>720km/h</strong> ) e uma força de impacto de 60 kg/cm².[3] Essa força esmagadora é a responsável pelo seu título de "lagosta-boxeadora" e é capaz de facilmente quebrar a carapaça de um caranguejo, as conchas duras e calcificadas de gastrópodes ou até mesmo quebrar o vidro reforçado de um aquário</p>
+                </section>
+                <section>
+                    <h4>Referência bibliográfica:</h4>
+                    <p> <a href="https://pt.wikipedia.org/wiki/Stomatopoda#cite_note-4" target="_blanck">Wikipédia</a></p>
                 </section>
             </article>
             <aside id="aside">
@@ -63,7 +96,12 @@
                         Latreille, 1817</li>
                 </ul>
             </aside>
+            <aside id="aside1">
+                Stomatopoda em ação nesse <a href="https://www.youtube.com/watch?v=E0Li1k5hGBE&ab_channel=NatGeoWILD" target="_blanck">vídeo</a>
+            </aside>
         </main>
-    </nav>
+        <footer>
+            "Conteúdo compilado por Roger, ano 2021".
+        </footer>
   </body>
 </html>
