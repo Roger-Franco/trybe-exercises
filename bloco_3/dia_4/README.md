@@ -1,0 +1,1 @@
+Nesses exercícios estive aprendendo sobre semântica em HTML.
