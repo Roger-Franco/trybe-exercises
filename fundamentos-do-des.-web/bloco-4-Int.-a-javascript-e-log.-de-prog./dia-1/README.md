@@ -1,0 +1,1 @@
+ Nessa aulta estou aprendendo os fundamentos de Javascript e uso de if/else e switch case
