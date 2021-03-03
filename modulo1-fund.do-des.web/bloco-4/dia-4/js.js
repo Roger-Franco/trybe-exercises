@@ -245,7 +245,7 @@
 // }
 
 // console.log(verificaFimPalavra("trybe", "be")); //true
-// console.log(verificaFimPalavra("joaofernando", "nando")); //false
+// console.log(verificaFimPalavra("joaofernando", "ferna")); //false
 
 
 // Bônus
