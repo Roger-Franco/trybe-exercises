@@ -1,0 +1,43 @@
+body {
+  font-size: 20px;
+  margin: auto;
+  max-width: 900px;
+  overflow-x: hidden;
+
+}
+p {
+  margin-right: 50px;
+  padding-right: 50px;
+  text-align: justify;
+}
+h1 {
+  font-size: 35px;
+}
+h2 {
+  font-size: 35px;
+}
+
+img {
+    max-width: 100%;
+}
+
+figure {
+    margin: 30px;
+}
+
+@media screen and (min-width: 1200px) {
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  body {
+    background-color: antiquewhite;
+    font-size: 40px;
+    margin: 30px;
+    max-width: 1300px;
+  }
+  p {
+    margin-right: 50px;
+    width: 80%;
+  }
+}
