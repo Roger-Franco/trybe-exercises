@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+
+.main-container {
+  justify-content: center;
+  display:flex;
+  margin-top: 30px;
+}
+
+.pokemon-card {
+  font-weight: 700;
+  font-size: 20px;
+  background-color: rgb(100, 7, 7);
+  padding: 30px;
+  margin: 30px;
+  border-radius: 5%;
+  border: 10px solid rgb(117, 78, 78);
+
+}
