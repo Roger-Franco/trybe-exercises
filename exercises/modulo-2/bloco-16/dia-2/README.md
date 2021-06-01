@@ -1,0 +1,1 @@
+Exercícios desse dia estão nesse link: https://github.com/Roger-Franco/exercises-redux-step-by-step
