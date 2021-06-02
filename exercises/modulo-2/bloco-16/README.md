@@ -56,7 +56,7 @@ Nos componentes:
 ### Passo a passo do exercício 16.3
 
 
-// src/actions/index.js
+// src/actions/index.js  
 export const addRegister = value => ({ type: 'ADD_REGISTER', data: value });
 export const login = value => ({ type: 'LOGIN', value });
 
