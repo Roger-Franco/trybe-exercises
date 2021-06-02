@@ -61,7 +61,7 @@ export const addRegister = value => ({ type: 'ADD_REGISTER', data: value });
 export const login = value => ({ type: 'LOGIN', value });
 
 ---------------------------------------------------
-// src/reducers/login.js
+// src/reducers/login.js  
 const Initial_State = {};
 
 function loginReducer(state = Initial_State, action) {
