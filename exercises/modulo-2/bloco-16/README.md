@@ -56,12 +56,12 @@ Nos componentes:
 ### Passo a passo do exercício 16.3
 
 
-// src/actions/index.js
+// src/actions/index.js  <br/>
 export const addRegister = value => ({ type: 'ADD_REGISTER', data: value });
 export const login = value => ({ type: 'LOGIN', value });
 
 ---------------------------------------------------
-// src/reducers/login.js
+// src/reducers/login.js  
 const Initial_State = {};
 
 function loginReducer(state = Initial_State, action) {
