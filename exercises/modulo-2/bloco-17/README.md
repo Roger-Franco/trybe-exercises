@@ -1,0 +1,1 @@
+## Esse módulo foi dedicado ao projeto: https://github.com/tryber/sd-010-b-project-trivia-react-redux
