@@ -1,0 +1,1 @@
+## Exercícios desse repositório 'forkado': https://github.com/Roger-Franco/exercise-contextAPI-refactoring/tree/master
