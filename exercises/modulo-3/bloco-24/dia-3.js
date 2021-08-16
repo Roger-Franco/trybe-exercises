@@ -125,8 +125,9 @@ db.movies.find(
   { category: { $size: 2 } },
   { _id: 0, title: 1 }
 ).pretty();
-Exercício 11 : Retorne somente o título de todos os filmes com quatro elementos no array ratings .
-Copiar
+
+// Exercício 11 : Retorne somente o título de todos os filmes com quatro elementos no array ratings .
+
 db.movies.find(
   { ratings: { $size: 4 } },
   { _id: 0, title: 1 }
