@@ -191,19 +191,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 26-3: _NodeJS - Arquitetura_
 - [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
 
-##### Bloco 27: NodeJS
+##### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful
 
 - [ ] 27-1: _Arquitetura de Software - Camada de Model_
 - [ ] 27-2: _Arquitetura de Software - Camada de Controller e Service_
 - [ ] 27-3: _Arquitetura Web - Rest e Restfull_
-- [ ] 27-3: _Arquitetura de Software - Testando as Camadas_
-- [ ] 27-3: _[Projeto - Store Manager]()_
+- [ ] 27-4: _Arquitetura de Software - Testando as Camadas_
+- [ ] 27-5: _[Projeto - Store Manager](https://github.com/tryber/sd-010-b-store-manager/pull/69)_
 
-##### Bloco 28: NodeJS
+##### Bloco 28: NodeJS - Autenticação e Upload de Arquivos
 
-- [ ] 28-1: _Arquitetura de Software - Camada de ServiÃ§o_
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-- [ ] 28-3: _[Projeto - Store Manager]()_
+- [ ] 28-1: _NodeJS - JWT - (JSON Web Token)_
+- [ ] 28-2: _Upload de Arquivos com `multer`_
+- [ ] 28-3: _Testando APIs com Testes de Integração_
+- [ ] 28-4: _[Projeto - Cookmaster]()_
 
 ##### Bloco 29: NodeJS
 
