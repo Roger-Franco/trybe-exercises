@@ -202,7 +202,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Bloco 28: NodeJS - Autenticação e Upload de Arquivos
 
 - [ ] 28-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 28-2: _Upload de Arquivos com `multer`_ (https://github.com/Roger-Franco/trybe-exercises/tree/master/exercises/modulo-3/bloco-28/dia-2)
+- [ ] 28-2: _[Upload de Arquivos com `multer`] (https://github.com/Roger-Franco/trybe-exercises/tree/master/exercises/modulo-3/bloco-28/dia-2)_
 - [ ] 28-3: _Testando APIs com Testes de Integração_
 - [ ] 28-4: _[Projeto - Cookmaster](https://github.com/tryber/sd-010-b-cookmaster/pull/58)_
 
