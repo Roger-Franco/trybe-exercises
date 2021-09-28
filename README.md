@@ -208,7 +208,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 29: NodeJS
 
-- [ ] 29-1: [Infraestrutura - Deploy com Heroku] - (https://github.com/Roger-Franco/trybe-exercises/tree/master/exercises/modulo-3/bloco-29/dia-1)_
+- [ ] 29-1: [Infraestrutura - Deploy com Heroku](https://github.com/Roger-Franco/trybe-exercises/tree/master/exercises/modulo-3/bloco-29/dia-1)_
 - [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
 - [ ] 29-3: _[Projeto - Cookmaster V2]()_
 
